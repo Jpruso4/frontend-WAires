@@ -1,0 +1,14 @@
+
+.container{
+background-size: 100%;
+    background-attachment: fixed;
+    width: 1600px;
+    height: 100%;
+    padding-top: 55px;
+}
+
+.body{
+background-attachment: fixed;
+background-color: #0D1B54;
+
+}
